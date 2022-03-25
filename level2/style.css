@@ -1,0 +1,17 @@
+body{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s;
+}
+
+button{
+  font-size: 48px;
+  padding: 7px;
+}
+
+.code{
+  margin-bottom: 10px;
+}

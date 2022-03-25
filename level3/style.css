@@ -1,0 +1,28 @@
+body{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s;
+  background: #ca8787;
+}
+
+button{
+  display: block;
+  font-size: 48px;
+  padding: 7px;
+  margin: 0 auto;
+}
+
+.code{
+  margin-bottom: 10px;
+}
+
+.box{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 6px;
+}

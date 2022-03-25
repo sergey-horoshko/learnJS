@@ -1,0 +1,16 @@
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body._active{
+  background: #9325d3;
+  transition: 0.3s;
+}
+
+button{
+  font-size: 48px;
+  padding: 7px;
+}
