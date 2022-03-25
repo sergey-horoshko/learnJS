@@ -1,1 +1,1 @@
-# learnJS
+# Изучаю JavaScript
