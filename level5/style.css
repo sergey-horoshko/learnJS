@@ -1,0 +1,57 @@
+body{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s;
+  background: #ca8787;
+}
+
+button{
+  display: inline-block;
+  font-size: 24px;
+  padding: 7px;
+  margin: 15px auto;
+}
+
+span {
+  display: block;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.error {
+  display: none;
+  color: red;
+}
+
+input{
+  width: 100%;
+}
+
+h1{
+  text-align: center;
+}
+
+.code{
+  margin-bottom: 10px;
+}
+
+.box{
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 6px;
+}
+
+.box__actions {
+  width: fit-content;
+  margin:0 auto;
+}
+
+.counter {
+  font-size: 24px;
+}
